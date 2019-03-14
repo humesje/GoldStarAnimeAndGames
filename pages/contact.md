@@ -1,15 +1,16 @@
 ---
 layout: contact
-title: Contact
+title: Contact Us
 permalink: /contact
 section: contact
 intro_paragraph: |-
 
-  The contact form on this page uses
-  [Netlify Forms](https://www.netlify.com/docs/form-handling/) to process
-  submissions, and saves them in your Netlify account where you can optionally
-  set up notifications. Each submission is passed through a spam filter and if
-  flagged, will display a CAPTCHA challenge to the user.
+  Need to contact us?
+  You can call us at 814-734-1890
+
+  or email us at info@goldstaranime.com
+
+  Alternatively, you can reach out to us on our [Facebook](https://www.facebook.com/profile.php?id=242981153930&epa=SEARCH_BOX)
 ---
 
-**Send us a message**
+**Sent us an inquiry directly!**
