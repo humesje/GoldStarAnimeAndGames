@@ -8,3 +8,5 @@
   url: /contact
 - text: News
   url: /news
+- text: test
+  url: /test
