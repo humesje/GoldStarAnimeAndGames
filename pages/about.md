@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Products
-permalink: /about
-section: about
+permalink: /products
+section: products
 intro_paragraph: |
   Here you can browse a sample of products that we currently have in stock.
 ---
