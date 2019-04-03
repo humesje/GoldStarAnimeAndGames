@@ -9,6 +9,6 @@ intro_paragraph: |
 
 ### Plushes
 
-#### Figures
+### Figures
 
-##### Cards
+### Cards
