@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page_product_image
 title: Products
 permalink: /products
 section: products
