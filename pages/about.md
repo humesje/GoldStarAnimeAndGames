@@ -7,8 +7,4 @@ intro_paragraph: |
   Here you can browse a sample of products that we currently have in stock.
 ---
 
-### Plushes
-
-### Figures
-
-### Cards
+### Just a quick sample of items.
