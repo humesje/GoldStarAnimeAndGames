@@ -8,7 +8,7 @@ intro_paragraph: |
 ---
 
 ### Plushes
----
+
 ### Figures
----
+
 ### Cards
