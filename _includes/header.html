@@ -1,11 +1,15 @@
 <header>
 
-  <h1>
-    <a href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
-  </h1>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
+<div class="topnav" id="myTopnav">
+    <a href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
+  <a href="javascript:void(0);" class="icon" onclick="myFunction()">
+    <i class="fa fa-bars"></i>
+  </a>
   <nav>
     {% include navigation.html navigation=site.data.navigation %}
   </nav>
+</div>
 
 </header>
